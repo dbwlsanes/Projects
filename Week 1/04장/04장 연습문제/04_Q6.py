@@ -1,0 +1,5 @@
+text = input("파일에 작성할 내용: ")
+f = open('test2.txt','a')
+f.write(text)
+f.write("\n")
+f.close()

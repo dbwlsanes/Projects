@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b75e564a-2379-45db-ab42-ee1888d29772" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Week 1/02장/02장 연습문제/02_Q1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/02장/02장 연습문제/02_Q10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/02장/02장 연습문제/02_Q11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/02장/02장 연습문제/02_Q12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/02장/02장 연습문제/02_Q2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/02장/02장 연습문제/02_Q3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/02장/02장 연습문제/02_Q4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/02장/02장 연습문제/02_Q5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/02장/02장 연습문제/02_Q6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/02장/02장 연습문제/02_Q7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/02장/02장 연습문제/02_Q8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/02장/02장 연습문제/02_Q9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/02장/02장 예제/02_Ex_multistring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/03장/03장 연습문제/03_Q1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/03장/03장 연습문제/03_Q2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/03장/03장 연습문제/03_Q3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/03장/03장 연습문제/03_Q4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/03장/03장 연습문제/03_Q5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/03장/03장 연습문제/03_Q6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 연습문제/04_Q1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 연습문제/04_Q2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 연습문제/04_Q3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 연습문제/04_Q4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 연습문제/04_Q5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 연습문제/04_Q6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 연습문제/04_Q7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 연습문제/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 연습문제/test2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 연습문제/test3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 예제/04_Ex_adddata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 예제/04_Ex_foo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 예제/04_Ex_foo2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 예제/04_Ex_redline_all.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 예제/04_Ex_redline_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 예제/04_Ex_writedata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 예제/foo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 예제/foo2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/04장/04장 예제/새파일.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/1주차 과제 문제/Q1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/1주차 과제 문제/Q2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/1주차 과제 문제/Q3.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="27e10950-e928-4e36-be8b-588c4c7acae6" />
+  <component name="ProjectId" id="1nh4I4e9M6u3jfa4JmDOGrfYuix" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b75e564a-2379-45db-ab42-ee1888d29772" name="Default Changelist" comment="" />
+      <created>1611828906168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611828906168</updated>
+      <workItem from="1611828920110" duration="10000" />
+    </task>
+    <servers />
+  </component>
+</project>
